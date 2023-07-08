@@ -1,0 +1,20 @@
+@media (min-width: 768px) and (max-width: 991px) {
+  .container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .col-right {
+    font-size: 20px;
+  }
+
+  .col-left {
+    font-size: 20px;
+  }
+
+  .icon-round {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+  }
+}
